@@ -503,5 +503,3 @@ git push
 
 拉取
 git pull
-
-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
